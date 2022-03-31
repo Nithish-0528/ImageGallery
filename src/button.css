@@ -1,0 +1,19 @@
+.container{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+button{
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #4b232f;
+    border: 1px solid gray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #DAC094;
+}
+
+button:hover{
+    background-color: gainsboro; 
+    color: violet;
+    cursor: pointer;
+}
